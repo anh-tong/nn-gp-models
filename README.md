@@ -1,6 +1,6 @@
 # Motivations
 
-Gaussian Process is known a smooth curve-fitting method, having algorithmic tractibilities as well as captivate model uncertainty calibrations.
+Gaussian Process is known as a smooth curve-fitting method, having algorithmic tractibilities as well as captivate model uncertainty calibrations.
 
 Neural network, on the other hand, has impressive demonstrations in learning features from data.
 
